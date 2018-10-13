@@ -1,4 +1,4 @@
-let lib = require('./sumLib.js');
+let lib = require('./reverseLib.js');
 
 const main = function(){
   let numbers = [1,2,3,4,5,6];
